@@ -1,16 +1,24 @@
-## Hi there 👋
+## 📊 사용 언어 통계
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung0224&layout=compact&theme=tokyonight)
 
-<!--
-**Seung0224/Seung0224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 기술 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🖥 Tools
+![LiveCharts](https://img.shields.io/badge/LiveCharts-0099E5?style=for-the-badge&logo=data&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Cognex](https://img.shields.io/badge/Cognex-FFD700?style=for-the-badge&logo=cognex&logoColor=black)
+![Syncfusion](https://img.shields.io/badge/Syncfusion-0066CC?style=for-the-badge&logo=syncfusion&logoColor=white)
+
+### 🤖 AI & Vision
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+
+---
