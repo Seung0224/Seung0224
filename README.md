@@ -1,6 +1,3 @@
-## 📊 사용 언어 통계
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seung0224&layout=compact&theme=tokyonight&cache_seconds=21600&langs_count=8)
-
 ## 🛠 기술 스택
 ### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
