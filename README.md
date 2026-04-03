@@ -1,4 +1,3 @@
-# 👋 Hello, I'm Seungill
 ### 🚀 Machine Vision & AI Software Developer
 
 ---
