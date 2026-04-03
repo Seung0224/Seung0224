@@ -1,6 +1,4 @@
-### 🚀 Machine Vision & AI Software Developer
-
----
+## 🚀 Machine Vision & AI Software Developer
 
 ## 📈 GitHub Statistics
 <p align="center">
@@ -34,18 +32,9 @@
 ### 🖥️ Environments & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveCharts-0099E5?style=for-the-badge&logo=data&logoColor=white" />
 </p>
-
----
-
-## 🏆 Core Expertise
-* **SAM2 / SAM3 Specialization:** 최신 Segment Anything Model을 활용한 고정밀 오토 라벨링 및 세그멘테이션 툴 개발
-* **Industrial Vision Logic:** Cognex 툴에 준하는 엄격한 품질 기준의 비전 검사 알고리즘 설계 및 최적화
-* **AI Model Deployment:** ONNX 기반 배포 및 실시간 추론 성능 극대화
 
 ---
 
