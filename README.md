@@ -29,13 +29,6 @@
   <img src="https://img.shields.io/badge/Cognex-FFD700?style=for-the-badge&logo=cognex&logoColor=black" />
 </p>
 
-### 🖥️ Environments & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/LiveCharts-0099E5?style=for-the-badge&logo=data&logoColor=white" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
