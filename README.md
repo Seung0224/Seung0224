@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/SMP-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Cognex-FFD700?style=for-the-badge&logo=cognex&logoColor=black" />
-  
 </p>
 
 ---
