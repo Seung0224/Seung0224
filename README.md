@@ -30,5 +30,5 @@
 ---
 
 ## 🌐 Connect with Me
-* **Blog:** [Calvision's Blog](https://calvision.tistory.com/) - 비전 및 딥러닝 기술 블로그 운영 중
+* **Blog:** [Calvision's Blog](https://calvision.tistory.com/)
 * **Contact:** `Seung0224` (GitHub)
