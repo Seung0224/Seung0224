@@ -1,6 +1,4 @@
 ## 🚀 Machine Vision & AI Software Developer
-
-## 📈 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Seung0224&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Seungill's GitHub stats" height="170px" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Seung0224&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="170px" />
