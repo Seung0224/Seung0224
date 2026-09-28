@@ -28,4 +28,3 @@
 
 ## 🌐 Connect with Me
 * **Blog:** [Calvision's Blog](https://calvision.tistory.com/)
-* **Contact:** `Seung0224` (GitHub)
