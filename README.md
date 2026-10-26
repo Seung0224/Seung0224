@@ -13,17 +13,16 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/GigE%20Vision-00A86B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Camera%20Link-00897B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoaXPress%20(CXP)-00897B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Smart%20Camera-455A64?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/PLC-1565C0?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/3D%20Laser%20Sensor-6A1B9A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lighting%20%26%20Frame%20Grabber-795548?style=for-the-badge&logoColor=white" />
 </p>
 
-- **Industrial Cameras:** GigE Vision, Camera Link, Hikrobot Smart Camera (3/5/6 Series)
+- **Industrial Cameras:** GigE Vision, CoaXPress (CXP), Hikrobot Smart Camera (3/5/6 Series)
 - **PLC Communication:** LS Electric, Mitsubishi
 - **3D Sensors:** SmartRay
-- **Other Hardware:** Light Controller, Camera Interface & Frame Grabber
+- **Other Hardware:** Light Controller, CXP Frame Grabber
 
 ### 💻 Programming Languages & Development Tools
 
@@ -32,8 +31,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PerfView-555555?style=for-the-badge&logoColor=white" />
 </p>
+
+- **Programming Languages:** C#, Python, C++
+- **IDE & Editors:** Visual Studio, Visual Studio Code
+- **Debugging & Performance Analysis:** PerfView, Memory Profiling
 
 ### 👁️ Machine Vision & Image Processing
 
@@ -41,11 +45,14 @@
   <img src="https://img.shields.io/badge/Cognex-FFD700?style=for-the-badge&logoColor=black" />
   <img src="https://img.shields.io/badge/Matrox%20MIL-00599C?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSNEX-00897B?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SmartRay%20SDK-6A1B9A?style=for-the-badge&logoColor=white" />
 </p>
 
-- **2D Vision:** Image Processing, Feature Extraction, Object Inspection
-- **3D Vision:** SmartRay SDK, Photometric Stereo, 3D Surface Analysis
+- **Vision Libraries:** Cognex VisionPro, Matrox MIL, OpenCV
+- **3D Inspection:** INSNEX, SmartRay SDK
+- **3D Vision & Surface Analysis:** Photometric Stereo, 3D Surface Inspection
+- **Image Processing:** Image Filtering, Feature Extraction, Surface Inspection
 - **Image Enhancement:** Super-Resolution
 
 ### 🤖 Deep Learning & AI
@@ -60,8 +67,8 @@
 - **Object Detection:** YOLO, RF-DETR
 - **Image Segmentation:** Segmentation Models PyTorch (SMP)
 - **Anomaly Detection:** PatchCore
-- **Image Reconstruction & Enhancement:** Super-Resolution
-- **Commercial AI Solutions:** Neurocle, Saige, Cognex, Hikrobot
+- **Super-Resolution:** Deep Learning-Based Image Reconstruction & Enhancement
+- **Commercial Deep Learning Solutions:** Neurocle, Saige, Cognex, Hikrobot
 
 ### ⚡ AI Inference & Deployment
 
