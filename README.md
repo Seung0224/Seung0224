@@ -50,11 +50,9 @@
 </p>
 
 - **Vision Libraries:** Cognex VisionPro, Matrox MIL, OpenCV
+- **2.5D Inspection:** Photometric Stereo
 - **3D Inspection:** INSNEX, SmartRay SDK
-- **3D Vision & Surface Analysis:** Photometric Stereo, 3D Surface Inspection
-- **Image Processing:** Image Filtering, Feature Extraction, Surface Inspection
-- **Image Enhancement:** Super-Resolution
-
+- 
 ### 🤖 Deep Learning & AI
 
 <p align="left">
